@@ -1,4 +1,4 @@
-# iOS-Block
+# iOS-Block Config
 
 Config file to block iOS upgrade.
 
